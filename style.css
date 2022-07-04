@@ -14,7 +14,7 @@ h3{
 section{
     height: 500px;
     display: flex;
-
+    padding-bottom: 5%;
 }
 .wellcome-site{
     width: 50%;
@@ -28,8 +28,20 @@ section{
 .hire-button{
     text-decoration: none;
     color:rgb(43, 80, 112);
-    font-weight: 40px;
+    font-weight: 700;
     padding: 10px 40px;
     background-color: rgb(238, 219, 10);
+    border-radius: 5px;
+}
+.onek-shoopno{
+    font-size: 50px;
+
+}
+.resume-button{
+    text-decoration: none;
+    background-color: cyan;
+    color: rgb(21, 23, 20);
+    font-weight: 700;
+    padding: 10px 40px;
     border-radius: 5px;
 }
