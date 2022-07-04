@@ -17,8 +17,8 @@ section{
     padding-bottom: 5%;
 }
 .wellcome-site{
-    width: 50%;
-    margin-left: 10%;
+    width: 40%;
+    margin-left: 8%;
 
 }
 .wellcome-site img{
@@ -44,4 +44,23 @@ section{
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 5px;
+}
+.noob{
+    color: chartreuse;
+}
+.debeloper{
+    color: rgba(233, 250, 40, 0.74);
+}
+.barti-color{
+    padding: 10px;
+    background-color: blanchedalmond;
+    border-radius: 30px;
+    box-shadow: 10px 10px 50px rgb(13, 226, 215);
+}
+.arek-kam{
+    padding: 10px;;
+    background-color: blanchedalmond;
+    border-radius: 30px;
+    box-shadow: 10px 10px 20px rgb(0, 247, 255);
+    
 }
